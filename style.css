@@ -14,13 +14,13 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  background-color: rgba(189, 189, 189, 0.582);
-  padding: 70px;
-  margin: 50px;
+  background-color: rgba(233, 228, 228, 0.678);
+  height: 50vh;
+  width: 50vw;
   border: none;
   border-radius: 20px;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.486);
- 
+ align-items: center;
 }
 
 h1{
